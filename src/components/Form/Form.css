@@ -1,0 +1,26 @@
+
+.form-box {
+    display: block;
+    margin:  0 auto;
+    width: 25rem;
+}
+.input-icon {
+    top: 45px !important;
+    right: 0%;
+}
+ .color > i {
+    color: #333;
+}
+.active > i {
+    color: var(--color-primary);
+}
+.input-icon+.input {
+    padding-left: 10px !important;
+}
+.form-control {
+    height: 6.25rem;
+}
+.contra {
+    width: 500px;
+    margin: 0 auto;
+}

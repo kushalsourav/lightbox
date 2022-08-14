@@ -407,5 +407,7 @@ input {
   color: #fff;
 }
 
-
-
+.img-1 {
+  width: 1400px;
+  background-size: cover;
+}
